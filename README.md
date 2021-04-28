@@ -2,19 +2,10 @@
   # shapedemo121.github.io
 WEB DEVELOPMENT BOOTCAMP
 # SHAPEAI WEB DEV BOOTCAMP
-
-<style>
-body {background-color: powderblue;}
-p    {color: red;}
-</style>
-</head>
-
-<body>
-<p>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
 The instructor during the session was <b> Mr. Shaurya Sinha <i>(Data Analyst Intern at Jio)</b></i>. I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-  <br><br>Here's the link for you to watch the sessions as well<br></p>
-
+  <br><br>Here's the link for you to watch the sessions as well<br>
 <i><a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a">
   <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a></i>
 <br>I got to have hands on experience on:
@@ -31,4 +22,3 @@ or follow SHAPEAI on:
 <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube      </a>
 <li><a href="https://github.com/shapeai">                             GitHub        </a> 
     </b></i>
- </body>
