@@ -2,13 +2,13 @@
   # shapedemo121.github.io
 WEB DEVELOPMENT BOOTCAMP
 # SHAPEAI WEB DEV BOOTCAMP
-<html>
-<head>
+
 <style>
 body {background-color: powderblue;}
 p    {color: red;}
 </style>
 </head>
+
 <body>
 <p>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
 The instructor during the session was <b> Mr. Shaurya Sinha <i>(Data Analyst Intern at Jio)</b></i>. I got to
@@ -32,4 +32,3 @@ or follow SHAPEAI on:
 <li><a href="https://github.com/shapeai">                             GitHub        </a> 
     </b></i>
  </body>
-</html>
