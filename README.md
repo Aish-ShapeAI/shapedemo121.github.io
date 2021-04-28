@@ -1,9 +1,8 @@
-# shapedemo121.github.io
+
+  # shapedemo121.github.io
 WEB DEVELOPMENT BOOTCAMP
 # SHAPEAI WEB DEV BOOTCAMP
-<style>
-  {front-color: blue;}
-
+<body font-color:"red";bgcolor:"blue">
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
 The instructor during the session was <b> Mr. Shaurya Sinha <i>(Data Analyst Intern at Jio)</b></i>. I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
